@@ -2,27 +2,27 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Anurag%20Panda&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=13&descAlign=50&descAlignY=25&textBg=false&color=gradient"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h1 align="center">Hi 👋! My name is Anurag Panda and I'm a CSE Student, from Durgapur India</h1>
 
-###
+---
 
 <br clear="both">
 
 <h2 align="left">💫 About Me:</h2>
 
-###
+---
 
 <p align="left">🔭 I am currently working on React Native and Python<br>🧑‍🤝‍🧑 I am looking to colaborate on Python<br>⚡ Fun Fact I am 6'6" in height</p>
 
-###
+---
 
 <h3 align="left">🌐 Socials:</h3>
 
-###
+---
 
 <div align="left">
   <a href="https://likedin.com/in/anurag-panda-" target="_blank">
@@ -48,19 +48,19 @@
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h2 align="left">💻 Tech Stack:</h2>
 
-###
+---
 
 <br clear="both">
 
 <h4 align="center">Core Languages</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -80,11 +80,11 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
-###
+---
 
 <h4 align="center">Frameworks</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -100,13 +100,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h4 align="center">Database</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -120,13 +120,13 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h4 align="center">Services</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -144,13 +144,13 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h4 align="center">Tools & Softwares</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -214,13 +214,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h4 align="center">Libraries & Visualization</h4>
 
-###
+---
 
 <br clear="both">
 
@@ -246,13 +246,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <h2 align="left">Stats</h2>
 
-###
+---
 
 <br clear="both">
 
@@ -263,13 +263,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag-panda-dev&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <br clear="both">
 
@@ -279,7 +279,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <br clear="both">
 
@@ -289,10 +289,10 @@
   </a>
 </div>
 
-###
+---
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+---
